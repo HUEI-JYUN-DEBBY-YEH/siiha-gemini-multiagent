@@ -46,7 +46,6 @@ SIIHA is a lightweight AI assistant prototype built with Google Gemini, designed
 # ➤ Config & Core
 ├── config.py                         # Constants & config
 ├── parser_utils.py                   # General time parser
-├── prompt_templates.py               # Prompt examples
 
 # ➤ Setup
 ├── create_notion_db.py               # Notion DB creation
