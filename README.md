@@ -114,6 +114,8 @@ Add a meeting titled "Team Sync" tomorrow at 3PM with debby83317@gmail.com
 
 ---
 
+🔐 For security, this repo excludes local `token.json`, `config.py`, and `.env` files. Please follow setup instructions to authenticate your own workspace.
+
 ## 📜 License
 
 MIT License (c) 2025 Debby Yeh
