@@ -1,0 +1,8 @@
+# requirements.txt 
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dotenv
+requests
+pytz
+google-adk==1.4.2
