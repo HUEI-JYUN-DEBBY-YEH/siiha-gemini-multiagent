@@ -4,7 +4,7 @@
 SIIHA is not just a chatbot—it is a human-centered digital assistant designed for transparency, trust, and usability. Every agent interaction is logged, and user emotion is gently acknowledged through prompt framing and multi-agent dialogue sequencing.
 
 ## 🔄 Interaction Flow Diagram
-![image]()
+![image](https://github.com/HUEI-JYUN-DEBBY-YEH/siiha-gemini-multiagent/blob/main/docs/siiha_adk_diagram.png)
 
 ## 💬 Emotional Support & Multi-Run Capability
 SIIHA supports not only task automation but also emotional attunement:
