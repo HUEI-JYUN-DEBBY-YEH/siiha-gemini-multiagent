@@ -41,6 +41,7 @@ adk web
 ```
 
 ## 📁 File Structure
+```
 siiha_adk/
 ├── agent.py            # Routing & invocation logic
 ├── gmail_api.py        # Gmail Agent definition
@@ -48,6 +49,7 @@ siiha_adk/
 ├── notion_api.py       # Notion logging agent
 ├── main.py             # Entry point
 ├── .env                # OAuth credentials
+```
 
 ## 🛠 Built With
 - Google ADK 1.4.1
