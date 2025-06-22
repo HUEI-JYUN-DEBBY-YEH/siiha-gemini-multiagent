@@ -58,7 +58,7 @@ siiha_adk/
 - Notion SDK
 
 ## 📽️ Demo Video
-[![Demo](https://youtu.be/RpNZdrsccBQ?si=IlEVxv6akQotVSCt)
+[Demo](https://youtu.be/RpNZdrsccBQ?si=IlEVxv6akQotVSCt)
 
 ## 🔗 Additional Design Info
 See additional_info.md for trust loop, future extensions, and technical philosophy.
