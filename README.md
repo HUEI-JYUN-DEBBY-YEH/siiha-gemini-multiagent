@@ -18,7 +18,7 @@ SIIHA (System for Integrating Intelligent Human Assistants) is a modular, Gemini
 - 🔐 OAuth-secured & Notion-synced for continuity
 
 ## 🧠 Core Architecture
-![image]()
+![image](https://github.com/HUEI-JYUN-DEBBY-YEH/siiha-gemini-multiagent/blob/main/docs/siiha_adk_diagram.png)
 
 ## 💡 Sample Prompt
 > "Please email my team and schedule a marketing sync next Tuesday."
@@ -56,7 +56,7 @@ siiha_adk/
 - Notion SDK
 
 ## 📽️ Demo Video
-Watch Here (https://youtu.be/RpNZdrsccBQ?si=IlEVxv6akQotVSCt)
+[![Demo](https://youtu.be/RpNZdrsccBQ?si=IlEVxv6akQotVSCt)
 
 ## 🔗 Additional Design Info
 See additional_info.md for trust loop, future extensions, and technical philosophy.
